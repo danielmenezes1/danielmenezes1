@@ -1,4 +1,4 @@
-## Olá, me chamo Daniel, amante de tecnologia e programação!
+## Olá, me chamo Daniel, e sou um amante de tecnologia e programação!
 
 - Procurando minha primeira oportunidade como desenvolvedor front-end
 - Estudando back-end e front-end
