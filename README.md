@@ -1,4 +1,4 @@
-## Oi, eu sou o Daniel Menezes, amante de tecnologia e programação!
+## Olá, me chamo Daniel, amante de tecnologia e programação!
 
 - Procurando minha primeira oportunidade como desenvolvedor front-end
 - Estudando back-end e front-end
